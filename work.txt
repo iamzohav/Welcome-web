@@ -1,0 +1,4 @@
+How it works:
+HTML: Contains the structure of the website, including a header, button, and footer.
+CSS: Adds styles to the webpage (colors, fonts, layouts, etc.).
+JavaScript: Adds interactivity. In this case, it displays a message when the button is clicked.
